@@ -97,7 +97,7 @@ Successfully connected the database to a test website for basic high level requi
 
 ## <a id="2024-03-26"></a>2024-03-26 Fifth Team Meeting with TA
 
-- Confirm with TA about the pcb design.
+- Confirm with TA about the pcb design and submitted the order.
 
 ---
 
