@@ -120,7 +120,7 @@ Enable the ESP32 to connect to the school's WiFi network, which requires additio
 
 ## <a id="2024-04-10"></a>2024-04-10 Fixing the Time Code on ESP32
 
-Identified issues with the initial time library and switched to a more reliable time management library.
+Identified issues with the initial time library in arduino IDE and switched to a more reliable time management library.
 
 **Figure 6: Corrected Time Code**
 
@@ -144,7 +144,7 @@ Migrate the server hosting from a local machine to a remote AWS EC2 instance. Th
 
 ## <a id="2024-04-15"></a>2024-04-15 Getting the Reminder Functions to Work
 
-- Implement and test reminder functionalities in the application by added a notifications table in the database.
+- Implement and test reminder functionalities in the app by added a notifications table in the database.
 - Programmed the app to monitor and respond to reminder flags from the database.
 
 Reminders are now functional, with real-time notifications being triggered by changes in the database flags.
